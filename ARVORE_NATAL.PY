@@ -6,4 +6,4 @@ def mensagem_natalina(nome):
 # Solicita o nome do usuário
 nome_usuario = input("Qual é o seu nome? ")
 # Chama a função e exibe a mensagem natalina
-print(mensagem_natalina(nome_usuario))
+print(mensagem_natalina(nome_usuaryo))
