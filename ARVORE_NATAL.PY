@@ -3,7 +3,7 @@ def mensagem_natalina(nome):
     mensagem = f"Feliz Natal, {nome}! Que a magia do Natal encha sua vida de alegria e amor."
     return mensagem
 
-# Solicita o nome do usuário
+# Solicita o nome do usuario
 nome_usuario = input("Qual é o seu nome? ")
-# Chama a função e exibe a mensagem natalina
+# Chama a funcao e exibe a mensagem natalina
 print(mensagem_natalina(nome_usuaryo))
